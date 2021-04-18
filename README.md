@@ -16,4 +16,4 @@ El proyecto corre en: http://localhost:8002/api
 # Correr seeders
 ### `npx sequelize-cli db:seed:all`
 
-El crud fue realizado con mongodb, debe estar instalada la base de datos de mongo para el correcto funcionamiento del proyecto
+El crud fue realizado con sequelize, y la base de datos implementada fue Postgres.
